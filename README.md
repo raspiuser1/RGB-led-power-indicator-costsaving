@@ -1,3 +1,4 @@
-# RGB-led-power-indicator-costsaving
-RGB realtime led Power (KilloWatt/Hour) Indicator
+# RGB realtime led Power (KilloWatt/Hour) Indicator
+
+##What does it do?
 
