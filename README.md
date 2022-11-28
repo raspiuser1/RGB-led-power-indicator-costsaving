@@ -3,7 +3,7 @@
 ## What does it do?
 First of all you need a smart p1 power meter in your home.
 The current power used in your home will be translated into a RGB colour.
-So for example we can set the colour according to the used Kilowatts. for example under 500 watts the led will be green, from 500 to 1500 watts it will be yello and all above will be red. in beween the colours are faded into eachother to get a smoother effect.
+So for example we can set the colour according to the used Kilowatts. for example under 500 watts the led will be green, from 500 to 1500 watts it will be yellow and all above will be red. in beween the colours are faded into eachother to get a smoother effect.
 We use Wifi Leds from MI Light, these settings can be adjusted.
 
 ## What do we need?
