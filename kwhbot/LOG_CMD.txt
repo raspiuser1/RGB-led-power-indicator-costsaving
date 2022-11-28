@@ -1,0 +1,2 @@
+--------------------------RAPPORT--------------------------
+ma 28 nov 2022 15:14:59 CET 11 Laatste KWh waarde:  310 ,  Recente KWh waarde:  310 ,  Laatste HUE Waarde voor MIlight:  99 ,  Recente HUE Waarde voor MIlight:  99
