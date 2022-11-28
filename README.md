@@ -19,11 +19,11 @@ We use Wifi Leds from MI Light, these settings can be adjusted.
 
 
 ## Before we start
--Edit the homewizzardp1.py and set ipad = "192.168.1.56" to the ip of the homewizzard
--Edit start_watt.txt and eind_watt.txt to your needs, it contains the starting wattage and ending wattage
--For the colour you can change colour_start.txt and colour_end.txt, for example colour 90 in RGB =  90, 0, 0  see https://rgb.to/ for reference
--Make sure you have installed guile: sudo apt-get install guile-2.0
--Edit KWh_TO_LED.sh and change the ip to your MI Light wifi gateway, leave the port as it is
+- Edit the homewizzardp1.py and set ipad = "192.168.1.56" to the ip of the homewizzard
+- Edit start_watt.txt and eind_watt.txt to your needs, it contains the starting wattage and ending wattage
+- For the colour you can change colour_start.txt and colour_end.txt, for example colour 90 in RGB =  90, 0, 0  see https://rgb.to/ for reference
+- Make sure you have installed guile: sudo apt-get install guile-2.0
+- Edit KWh_TO_LED.sh and change the ip to your MI Light wifi gateway, leave the port as it is
 
 ## Start
 - Now start the script with Python3 homewizzardp1.py and it will update the lamp of the colour every 10seconds
