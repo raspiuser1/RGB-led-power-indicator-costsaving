@@ -1,8 +1,8 @@
 # RGB realtime led Power with homewizzard (KilloWatt/Hour) Indicator
 
 ## A Short video
-Youtube link: https://www.youtube.com/watch?v=aOHubhP2w0g <br />
-[![IMAGE VIDEO](https://img.youtube.com/vi/aOHubhP2w0g/0.jpg)](https://www.youtube.com/watch?v=aOHubhP2w0g)<br />
+Youtube link: https://www.youtube.com/watch?v=imgvzoSaZbI <br />
+[![IMAGE VIDEO](https://img.youtube.com/vi/imgvzoSaZbI/0.jpg)](https://www.youtube.com/watch?v=imgvzoSaZbI)<br />
 
 ## What does it do?
 First of all you need a smart p1 power meter in your home.
