@@ -15,15 +15,16 @@ We use Wifi Leds from MI Light, these settings can be adjusted.
   the script will connect the api, make sure that its enabled in the settings of homewizzard (its enabled by default)
 - A Raspberry 3 or a Linux system to run the script
 
-- MI light wifi bulb <br>
+- MI light wifi bulb, you can buy them at amazon or aliexpress <br>
 ![shopping](https://user-images.githubusercontent.com/13587295/191190398-d194c220-f271-432f-adc2-7f5205767242.png)
 
-- MI Light wifi gateway <br>
+- MI Light wifi gateway, you can buy them at amazon or aliexpress <br>
 ![mi-light-wifi-module-mat-wit](https://user-images.githubusercontent.com/13587295/191190309-77555394-f8e9-483b-8dae-2b96672886a5.jpg)
 
 
 ## Before we start
 - Edit the homewizzardp1.py and set ipad = "192.168.1.56" to the ip of the homewizzard
+- Make sure you MI light bulb is connected to the gateway (see manual of the gateway)
 - Edit start_watt.txt and eind_watt.txt to your needs, it contains the starting wattage and ending wattage
 - For the colour you can change colour_start.txt and colour_end.txt, for example colour 90 in RGB =  90, 0, 0  see https://rgb.to/ for reference
 - Make sure you have installed guile: sudo apt-get install guile-2.0
